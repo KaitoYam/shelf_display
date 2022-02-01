@@ -1,0 +1,336 @@
+{
+  "response": {
+    "sync_time": "2022-02-01T07:26:55+0000;softwareVersion:62000;SE:F;SC:F;CS:H;CT:F;ST:Periodical-1643700415485,KS-15000000000010,KB-15000000000071,",
+    "cache_metadata": {
+      "version": "1"
+    },
+    "add_update_list": {
+      "meta_data": [
+        {
+          "ASIN": "B00TPLKYEM",
+          "title": {
+            "@pronunciation": "トケルデザイン　ハード×ソフト×ネットジダイノアラタナセッケイロン",
+            "#text": "融けるデザイン　ハード×ソフト×ネット時代の新たな設計論"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "ワタナベ ケイタ",
+              "#text": "渡邊 恵太"
+            }
+          },
+          "publishers": {
+            "publisher": "ビー・エヌ・エヌ新社"
+          },
+          "publication_date": "",
+          "purchase_date": "2022-01-07T08:32:19+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBSP",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B093KZ9S8B",
+          "title": {
+            "@pronunciation": "ウマムスメシンデレラグレイ003 (ヤングジャンプコミックスデジタル)",
+            "#text": "ウマ娘 シンデレラグレイ 3 (ヤングジャンプコミックスDIGITAL)"
+          },
+          "authors": {
+            "author": [
+              {
+                "@pronunciation": "クズミタイヨウ",
+                "#text": "久住太陽"
+              },
+              {
+                "@pronunciation": "スギウラマサフミ",
+                "#text": "杉浦理史"
+              },
+              {
+                "@pronunciation": "イトウジュンノスケゲンサクサイゲームス",
+                "#text": "伊藤隼之介（原作：Cygames）"
+              }
+            ]
+          },
+          "publishers": {
+            "publisher": "集英社"
+          },
+          "publication_date": "2021-05-19T00:00:00+0000",
+          "purchase_date": "2021-08-03T09:00:43+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B08V14LBBX",
+          "title": {
+            "@pronunciation": "ウマムスメシンデレラグレイ002 (ヤングジャンプコミックスデジタル)",
+            "#text": "ウマ娘 シンデレラグレイ 2 (ヤングジャンプコミックスDIGITAL)"
+          },
+          "authors": {
+            "author": [
+              {
+                "@pronunciation": "クズミタイヨウ",
+                "#text": "久住太陽"
+              },
+              {
+                "@pronunciation": "スギウラマサフミ",
+                "#text": "杉浦理史"
+              },
+              {
+                "@pronunciation": "イトウジュンノスケゲンサクサイゲームス",
+                "#text": "伊藤隼之介（原作：Cygames）"
+              }
+            ]
+          },
+          "publishers": {
+            "publisher": "集英社"
+          },
+          "publication_date": "2021-02-19T00:00:00+0000",
+          "purchase_date": "2021-08-03T06:10:44+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B08R6VPHC7",
+          "title": {
+            "@pronunciation": "ウマムスメシンデレラグレイ001 (ヤングジャンプコミックスデジタル)",
+            "#text": "ウマ娘 シンデレラグレイ 1 (ヤングジャンプコミックスDIGITAL)"
+          },
+          "authors": {
+            "author": [
+              {
+                "@pronunciation": "クズミタイヨウ",
+                "#text": "久住太陽"
+              },
+              {
+                "@pronunciation": "スギウラマサフミ",
+                "#text": "杉浦理史"
+              },
+              {
+                "@pronunciation": "イトウジュンノスケゲンサクサイゲームス",
+                "#text": "伊藤隼之介（原作：Cygames）"
+              }
+            ]
+          },
+          "publishers": {
+            "publisher": "集英社"
+          },
+          "publication_date": "2021-01-19T00:00:00+0000",
+          "purchase_date": "2021-08-03T05:53:53+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B07HQ58BLM",
+          "title": {
+            "@pronunciation": "イマサラキケナイセイジノキホンガニジカンデゼンブアタマニハイル",
+            "#text": "今さら聞けない！政治のキホンが２時間で全部頭に入る"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "ウマヤハラ ヨシヒロ",
+              "#text": "馬屋原 吉博"
+            }
+          },
+          "publishers": {
+            "publisher": "すばる舎"
+          },
+          "publication_date": "2018-11-03T00:00:00+0000",
+          "purchase_date": "2021-04-26T17:12:38+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B0831D258M",
+          "title": {
+            "@pronunciation": "チョウザツダンリョクヒトヅキアイガラクニナルダレトデモシンライカンケイガキズケルジャクテンニアワセテヨムバショガワカルトクセツページツキ001 (ディスカヴァーネクストディー)",
+            "#text": "超雑談力　人づきあいがラクになる　誰とでも信頼関係が築ける【弱点に合わせて読む場所がわかる！特設ページ付き！】 (Discover Next D)"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "イオタタツナリ",
+              "#text": "五百田達成"
+            }
+          },
+          "publishers": {
+            "publisher": "ディスカヴァー・トゥエンティワン"
+          },
+          "publication_date": "2019-12-22T00:00:00+0000",
+          "purchase_date": "2021-04-26T17:10:26+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B07WV3DDW6",
+          "title": {
+            "@pronunciation": "ネムレナクナルホドオモシロイズカイシャカイシンリガク001",
+            "#text": "眠れなくなるほど面白い 図解 社会心理学"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "",
+              "#text": "亀田達也"
+            }
+          },
+          "publishers": {
+            "publisher": "日本文芸社"
+          },
+          "publication_date": "2019-08-27T00:00:00+0000",
+          "purchase_date": "2021-04-26T17:08:32+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B085DMGTDY",
+          "title": {
+            "@pronunciation": "テンタイセンシサンレッドカンゼンバン001",
+            "#text": "天体戦士サンレッド 完全版 1巻"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "クボタ マコト",
+              "#text": "くぼた まこと"
+            }
+          },
+          "publishers": {
+            "publisher": "電書バト"
+          },
+          "publication_date": "2020-11-15T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:21:36+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B085DJDG6B",
+          "title": {
+            "@pronunciation": "テンタイセンシサンレッドカンゼンバン002",
+            "#text": "天体戦士サンレッド 完全版 2巻"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "クボタ マコト",
+              "#text": "くぼた まこと"
+            }
+          },
+          "publishers": {
+            "publisher": "電書バト"
+          },
+          "publication_date": "2020-11-15T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:22:11+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B085DK932L",
+          "title": {
+            "@pronunciation": "テンタイセンシサンレッドカンゼンバン003",
+            "#text": "天体戦士サンレッド 完全版 3巻"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "クボタ マコト",
+              "#text": "くぼた まこと"
+            }
+          },
+          "publishers": {
+            "publisher": "電書バト"
+          },
+          "publication_date": "2020-11-15T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:22:04+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B07PWMGF6W",
+          "title": {
+            "@pronunciation": "ヨメイジュウネン (ブンゲイシャブンコネオ)",
+            "#text": "余命10年 (文芸社文庫NEO)"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "コサカ ルカ",
+              "#text": "小坂 流加"
+            }
+          },
+          "publishers": {
+            "publisher": "文芸社"
+          },
+          "publication_date": "2017-05-15T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:22:49+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B07KWLFXX1",
+          "title": {
+            "@pronunciation": "アタマガサエルマイニチガジュウジツスルスゴイハヤオキ",
+            "#text": "頭が冴える！　毎日が充実する！　スゴい早起き"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "ツカモト リョウ",
+              "#text": "塚本 亮"
+            }
+          },
+          "publishers": {
+            "publisher": "すばる舎"
+          },
+          "publication_date": "2019-01-13T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:24:05+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B0172CK2V0",
+          "title": {
+            "@pronunciation": "",
+            "#text": "The Complete Peanuts Vol. 1: 1950-1952 (English Edition)"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "",
+              "#text": "Schulz, Charles"
+            }
+          },
+          "publishers": {
+            "publisher": "Fantagraphics"
+          },
+          "publication_date": "2004-04-30T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:23:50+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        },
+        {
+          "ASIN": "B07Q84X6BN",
+          "title": {
+            "@pronunciation": "ウンテンシャミライヲカエルカコカラノシシャ001",
+            "#text": "運転者　未来を変える過去からの使者"
+          },
+          "authors": {
+            "author": {
+              "@pronunciation": "キタガワヤスシ",
+              "#text": "喜多川泰"
+            }
+          },
+          "publishers": {
+            "publisher": "ディスカヴァー・トゥエンティワン"
+          },
+          "publication_date": "2019-03-28T00:00:00+0000",
+          "purchase_date": "2022-02-01T07:23:23+0000",
+          "textbook_type": "",
+          "cde_contenttype": "EBOK",
+          "content_type": "application/x-mobipocket-ebook"
+        }
+      ]
+    }
+  }
+}
